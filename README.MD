@@ -1,7 +1,7 @@
 12x arm/rod_end.stl -> https://www.thingiverse.com/thing:906143
 
-1x arm/alignemtn_left.stl -> https://www.thingiverse.com/thing:2843487 (Magnet_Rod_Tool_10mmBall_6mmRod_Left.stl)
-1x arm/alignemtn_right.stl -> https://www.thingiverse.com/thing:2843487 (Magnet_Rod_Tool_10mmBall_6mmRod_Right.stl)
+1x arm/alignment_left.stl -> https://www.thingiverse.com/thing:2843487 (Magnet_Rod_Tool_10mmBall_6mmRod_Left.stl)
+1x arm/alignment_right.stl -> https://www.thingiverse.com/thing:2843487 (Magnet_Rod_Tool_10mmBall_6mmRod_Right.stl)
 
 3x frame/bottom.stl -> https://www.thingiverse.com/thing:2050125 (frame_bottom_v2.stl)
 3x frame/top.stl -> https://www.thingiverse.com/thing:2050125 (modded_frame_top_2020sw.stl)
