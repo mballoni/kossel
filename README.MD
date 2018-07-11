@@ -1,31 +1,31 @@
-Qty | File Name | Source | Original File
-------------- | ------------- | ------------- | -------------
-12 | arm/rod_end.stl | [906143](https://www.thingiverse.com/thing:906143) | rod_end_cup_V4.stl
-1 | arm/alignment_left.stl | [2843487](https://www.thingiverse.com/thing:2843487) | Magnet_Rod_Tool_10mmBall_6mmRod_Left.stl
-1 | arm/alignment_right.stl | [2843487](https://www.thingiverse.com/thing:2843487) | Magnet_Rod_Tool_10mmBall_6mmRod_Right.stl
-3 | frame/bottom.stl | [2050125](https://www.thingiverse.com/thing:2050125) | frame_bottom_v2.stl
-3 | frame/top.stl | [2050125](https://www.thingiverse.com/thing:2050125) | modded_frame_top_2020sw.stl
-3 | frame/optical_frag.stl | [2210746](https://www.thingiverse.com/thing:2210746) | Anycubic_Optical_Flag.stl
-3 | frame/optical_mount.stl | [2210746](https://www.thingiverse.com/thing:2210746) | Anycubic_Optical_PCBMount.stl
-1 | frame/power_socker.stl | [2313868](https://www.thingiverse.com/thing:2313868) | Kossel_Power_Socket_V2.stl
-3 | frame/belt_tensioner_shoe.stl | [26361](https://www.thingiverse.com/thing:26361) | X_Belt_Shoe.stl
-3 | frame/belt_tensioner.stl | [26361](https://www.thingiverse.com/thing:26361) | X_Belt.stl
-1 | frame/filament_guide.stl | [1327363](https://www.thingiverse.com/thing:1327363) | Filament_Guide.stl
-1 | frame/jack_mounter.stl | [899564](https://www.thingiverse.com/thing:899564) | USB_Jack_Monuner.stl
-1 | frame/ramps_holder.stl | [761865](https://www.thingiverse.com/thing:761865) | ramps_holder_kosel2020.stl
-1 | frame/handle.stl | [167235](https://www.thingiverse.com/thing:167235) | Kossel_handle_straight.STL
-3 | frame/brace.stl | [2186802](https://www.thingiverse.com/thing:2186802) | Aussteifung_oben.stl
-1 | frame/lcd_lid.stl | [1762835](https://www.thingiverse.com/thing:1762835) | obudowa_lcd_druk_-_with_reset.stl
-1 | frame/powersupply_braket1.stl | [758141](https://www.thingiverse.com/thing:758141) | --
-1 | frame/powersupply_braket2.stl | [758141](https://www.thingiverse.com/thing:758141) | --
-1 | frame/powersupply_braket3.stl | [758141](https://www.thingiverse.com/thing:758141) | --
-1 | frame/powersupply_braket4.stl | [758141](https://www.thingiverse.com/thing:758141) | --
-1 | effector/magnetic_effector.stl | [2861727](https://www.thingiverse.com/thing:2861727) | Magnetic_Effector.stl
-1 | effector/heatsink_house_pt1.stl | [2861727](https://www.thingiverse.com/thing:2861727) | heatsink_house_1.stl
-1 | effector/heatsink_house_pt2.stl | [2861727](https://www.thingiverse.com/thing:2861727) | heatsink_house_2.stl
-1 | effector/carriage_t1.stl | [2861727](https://www.thingiverse.com/thing:2861727) | Carriage80mm_Tower1.stl
-1 | effector/carriage_t2.stl | [2861727](https://www.thingiverse.com/thing:2861727) | Carriage80mm_Tower2.stl
-1 | effector/carriage_t3.stl | [2861727](https://www.thingiverse.com/thing:2861727) | Carriage80mm_Tower3.stl
-1 | effector/cable_guide.stl | [2861727](https://www.thingiverse.com/thing:2861727) | CableManagement.stl
-1 | effector/fan_cover.stl | [2861727](https://www.thingiverse.com/thing:2861727) | 4010_fan_cover.stl
-? | washer/? | [2665934](https://www.thingiverse.com/thing:2665934) | ?
+Priority | Qty | File Name | Source | Original File
+------------- | ------------- | ------------- | ------------- | -------------
+3 | 12 | arm/rod_end.stl | [906143](https://www.thingiverse.com/thing:906143) | rod_end_cup_V4.stl
+1 | 1 | arm/alignment_left.stl | [2843487](https://www.thingiverse.com/thing:2843487) | Magnet_Rod_Tool_10mmBall_6mmRod_Left.stl
+1 | 1 | arm/alignment_right.stl | [2843487](https://www.thingiverse.com/thing:2843487) | Magnet_Rod_Tool_10mmBall_6mmRod_Right.stl
+1 | 3 | frame/bottom.stl | [2050125](https://www.thingiverse.com/thing:2050125) | frame_bottom_v2.stl
+1 | 3 | frame/top.stl | [2050125](https://www.thingiverse.com/thing:2050125) | modded_frame_top_2020sw.stl
+1 | 3 | frame/optical_frag.stl | [2210746](https://www.thingiverse.com/thing:2210746) | Anycubic_Optical_Flag.stl
+1 | 3 | frame/optical_mount.stl | [2210746](https://www.thingiverse.com/thing:2210746) | Anycubic_Optical_PCBMount.stl
+2 | 1 | frame/power_socker.stl | [2313868](https://www.thingiverse.com/thing:2313868) | Kossel_Power_Socket_V2.stl
+1 | 3 | frame/belt_tensioner_shoe.stl | [26361](https://www.thingiverse.com/thing:26361) | X_Belt_Shoe.stl
+1 | 3 | frame/belt_tensioner.stl | [26361](https://www.thingiverse.com/thing:26361) | X_Belt.stl
+3 | 1 | frame/filament_guide.stl | [1327363](https://www.thingiverse.com/thing:1327363) | Filament_Guide.stl
+3 | 1 | frame/jack_mounter.stl | [899564](https://www.thingiverse.com/thing:899564) | USB_Jack_Monuner.stl
+2 | 1 | frame/ramps_holder.stl | [761865](https://www.thingiverse.com/thing:761865) | ramps_holder_kosel2020.stl
+4 | 1 | frame/handle.stl | [167235](https://www.thingiverse.com/thing:167235) | Kossel_handle_straight.STL
+4 | 3 | frame/brace.stl | [2186802](https://www.thingiverse.com/thing:2186802) | Aussteifung_oben.stl
+1 | 1 | frame/lcd_lid.stl | [1762835](https://www.thingiverse.com/thing:1762835) | obudowa_lcd_druk_-_with_reset.stl
+1 | 1 | frame/powersupply_braket1.stl | [758141](https://www.thingiverse.com/thing:758141) | --
+1 | 1 | frame/powersupply_braket2.stl | [758141](https://www.thingiverse.com/thing:758141) | --
+1 | 1 | frame/powersupply_braket3.stl | [758141](https://www.thingiverse.com/thing:758141) | --
+1 | 1 | frame/powersupply_braket4.stl | [758141](https://www.thingiverse.com/thing:758141) | --
+1 | 1 | effector/magnetic_effector.stl | [2861727](https://www.thingiverse.com/thing:2861727) | Magnetic_Effector.stl
+1 | 1 | effector/heatsink_house_pt1.stl | [2861727](https://www.thingiverse.com/thing:2861727) | heatsink_house_1.stl
+1 | 1 | effector/heatsink_house_pt2.stl | [2861727](https://www.thingiverse.com/thing:2861727) | heatsink_house_2.stl
+1 | 1 | effector/carriage_t1.stl | [2861727](https://www.thingiverse.com/thing:2861727) | Carriage80mm_Tower1.stl
+1 | 1 | effector/carriage_t2.stl | [2861727](https://www.thingiverse.com/thing:2861727) | Carriage80mm_Tower2.stl
+1 | 1 | effector/carriage_t3.stl | [2861727](https://www.thingiverse.com/thing:2861727) | Carriage80mm_Tower3.stl
+2 | 1 | effector/cable_guide.stl | [2861727](https://www.thingiverse.com/thing:2861727) | CableManagement.stl
+1 | 1 | effector/fan_cover.stl | [2861727](https://www.thingiverse.com/thing:2861727) | 4010_fan_cover.stl
+1 | ? | washer/? | [2665934](https://www.thingiverse.com/thing:2665934) | ?
